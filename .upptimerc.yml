@@ -4,25 +4,38 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Ecrannoir
+    url: https://www.ecrannoir.be
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Documentation
+    url: https://documentation.ecrannoir.be
+  - name: Jehanne Moll
+    url: https://jehannemoll.com
+  - name: Beauté Engagée
+    url: https://www.beaute-engagee.be
+  - name: Paloma
+    url: https://www.paloma-latelier.be
+  - name: Nuance Infuse
+    url: https://www.nuanceinfuse.be
+  - name: Coma ULG
+    url: https://www.coma.uliege.be
+  - name: Smart2Circle
+    url: https://smart2circle.com
+  - name: Chanelle Delbrouck
+    url: https://beta.chanelledbck.be
+  - name: Portal Herstal
+    url: https://portal.fnherstal.com
+  - name: Communication Herstal Group
+    url: https://communication.herstalgroup.com
+  - name: FN Enovation
+    url: https://fnenovation.eu
+  - name: ESFAM
+    url: https://www.esfam.eu
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ecran Noir - Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
