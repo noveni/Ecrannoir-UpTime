@@ -154,19 +154,19 @@
     "url": "https://smart2circle.com",
     "icon": "https://favicons.githubusercontent.com/smart2circle.com",
     "slug": "smart2-circle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1749,
-    "timeDay": 2207,
-    "timeWeek": 1824,
-    "timeMonth": 1749,
-    "timeYear": 1749,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1728,
+    "timeDay": 1872,
+    "timeWeek": 1783,
+    "timeMonth": 1728,
+    "timeYear": 1728,
     "dailyMinutesDown": {
-      "2020-12-23": 0
+      "2020-12-23": 21
     }
   },
   {
