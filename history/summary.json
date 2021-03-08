@@ -58,10 +58,10 @@
     "url": "https://jehannemoll.com",
     "icon": "https://favicons.githubusercontent.com/jehannemoll.com",
     "slug": "jehanne-moll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1395,
@@ -69,7 +69,9 @@
     "timeWeek": 1165,
     "timeMonth": 1174,
     "timeYear": 1395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 1
+    }
   },
   {
     "name": "Beauté Engagée",
