@@ -87,7 +87,7 @@
     "time": 2706,
     "timeDay": 2358,
     "timeWeek": 2154,
-    "timeMonth": 2809,
+    "timeMonth": 2637,
     "timeYear": 2706,
     "dailyMinutesDown": {
       "2021-02-28": 15,
@@ -110,7 +110,7 @@
     "time": 3390,
     "timeDay": 1904,
     "timeWeek": 1957,
-    "timeMonth": 2310,
+    "timeMonth": 2187,
     "timeYear": 3390,
     "dailyMinutesDown": {
       "2021-03-17": 26,
@@ -160,7 +160,7 @@
     "url": "https://www.coma.uliege.be",
     "icon": "https://favicons.githubusercontent.com/www.coma.uliege.be",
     "slug": "coma-ulg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -313,7 +313,7 @@
     "time": 2697,
     "timeDay": 1871,
     "timeWeek": 2303,
-    "timeMonth": 2628,
+    "timeMonth": 2503,
     "timeYear": 2697,
     "dailyMinutesDown": {
       "2021-03-14": 21,
